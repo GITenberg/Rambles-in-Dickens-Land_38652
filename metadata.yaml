@@ -1,0 +1,39 @@
+_repo: Rambles-in-Dickens-Land_38652
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Brenan, Gerald
+    birthdate: 1872
+    deathdate: 1906
+    gutenberg_agent_id: '45310'
+    url: http://www.gutenberg.org/2009/agents/45310
+  illustrator:
+    agent_name: James, Helen M.
+    aliases:
+    - James, H. M.
+    - James, M. Helen
+    gutenberg_agent_id: '43710'
+    url: http://www.gutenberg.org/2009/agents/43710
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Allbut, Robert
+    gutenberg_agent_id: '39599'
+    url: http://www.gutenberg.org/2009/agents/39599
+description: ''
+gutenberg_issued: '2012-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38652'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Literary landmarks -- England -- London'
+- !lcsh 'Dickens, Charles, 1812-1870 -- Homes and haunts -- England -- London'
+title: Rambles in Dickens' Land
+url: http://www.gutenberg.org/ebooks/38652
